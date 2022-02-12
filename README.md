@@ -2,15 +2,20 @@
 Analiza zmagovalk pesmi evrovizije
 ==================================
 Analiziral bom zmagovalne države na pesmi evrovizije od začetka (1956) do leta 2021 s spletne strani: https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_winners
-
+==================================
 Za vsako leto bom zajel naslednje podatke:
 
--zmagovalno državo 
+-zmagovalno državo
+
 -državo, ki je pesem evrovizije tistega leta gostila
+
 -jezik zmagovalne pesmi
+
 -dolžino zmagovalne pesmi
+
 -Število točk, ki jih je osvojila zmagovalna država (razen za Švico, saj za prvo leto nimamo podatkov)
 
+==================================
 Vprašanja, ki jih bom obravnaval:
 
 -Kolikšna je povprečna dolžina zmagovalne pesmi in kakšen je graf v odvisnosti od let (sprememba glede na čas)?
