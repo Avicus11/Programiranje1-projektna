@@ -1,7 +1,7 @@
 # Programiranje1-projektna
 Analiza zmagovalk pesmi evrovizije
 ==================================
-Analiziral bom zmagovalne države na pesmi evrovizije od začetka (1956) do leta 2019 s spletne strani:
+Analiziral bom zmagovalne države na pesmi evrovizije od začetka (1956) do leta 2021 s spletne strani:
 https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_winners
 
 Za vsako leto bom zajel naslednje podatke:
