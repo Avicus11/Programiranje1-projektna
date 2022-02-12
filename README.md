@@ -5,7 +5,7 @@ Analiziral bom zmagovalne države na pesmi evrovizije od začetka (1956) do leta
 
 Za vsako leto bom zajel naslednje podatke:
 
--zmagovalno državo
+-zmagovalno državo \n
 -državo, ki je pesem evrovizije tistega leta gostila
 -jezik zmagovalne pesmi
 -dolžino zmagovalne pesmi
