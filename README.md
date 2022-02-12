@@ -8,8 +8,6 @@ Za vsako leto bom zajel naslednje podatke:
 
 - zmagovalno državo
 
-- državo, ki je pesem evrovizije tistega leta gostila
-
 - jezik zmagovalne pesmi
 
 - dolžino zmagovalne pesmi
