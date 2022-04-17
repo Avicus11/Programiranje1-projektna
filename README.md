@@ -22,3 +22,5 @@ Vprašanja, ki jih bom obravnaval:
 - Katerih 5 držav ima do sedaj največ zmag in kolikšen je delež, ko so te države zmagale s pesmijo v materinščini?
 
 - Preveril bom, ali se 5 držav z največ zmagami ujema s 5 državami z najbolje izpolnjenim naslednjim pogojem: "Seštevek vseh točk do zdaj, ki so jih pridobile v letih, ko so zmagale". Zakaj pride do takšnih rezultatov?
+
+- Ali je kateri izvajalec zmagal večkrat? Kdo največkrat?
