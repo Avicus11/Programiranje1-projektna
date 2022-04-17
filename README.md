@@ -17,10 +17,12 @@ Za vsako leto bom zajel naslednje podatke:
 
 Vprašanja, ki jih bom obravnaval:
 
+- Kolikokrat je bila evrovizija sploh izvedena?
+
 - Kolikšna je povprečna dolžina zmagovalne pesmi in kakšen je graf v odvisnosti od let (sprememba glede na čas)?
 
 - Katerih 5 držav ima do sedaj največ zmag in kolikšen je delež, ko so te države zmagale s pesmijo v materinščini?
 
 - Preveril bom, ali se 5 držav z največ zmagami ujema s 5 državami z najbolje izpolnjenim naslednjim pogojem: "Seštevek vseh točk do zdaj, ki so jih pridobile v letih, ko so zmagale". Zakaj pride do takšnih rezultatov?
 
-- Ali je kateri izvajalec zmagal večkrat? Kdo največkrat?
+- Ali je kateri izvajalec zmagal večkrat? Kdo največkrat? Za katere države je pel/-a? Si je ta izvajalec napisal kdaj pesem tudi sam? Kaj pa ostali zmagovalci - Kolikokrat se je zgodilo, da si je zmagovalec evrovizije pesem napisal sam?
